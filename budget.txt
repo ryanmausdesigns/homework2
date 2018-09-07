@@ -1,0 +1,7 @@
+staff			$120,000
+Office Space Rental	$ 12,000
+Office Equipment 	$ 10,000
+
+__________________________________
+
+Total 			$142,000 	
